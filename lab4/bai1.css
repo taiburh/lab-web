@@ -1,0 +1,32 @@
+*
+body
+{
+    text-align: center;
+}
+h1
+{
+    color: white;
+    text-shadow: 0 0 5px red;
+    font-size: 60px;
+}
+em
+{
+    font-size: 30px;
+    font-variant: small-caps;
+}
+.doan-1
+{
+    color: red;
+}
+.doan-2
+{
+    color: blue;
+}
+.doan-3
+{
+    color:green;
+}
+strong
+{
+    color: brown;
+}
