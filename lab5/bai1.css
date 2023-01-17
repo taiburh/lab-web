@@ -1,0 +1,17 @@
+p{
+    text-align: center;
+}
+
+p>img{
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px blue;
+}
+p>img:hover{
+    box-shadow: 10px 5px red;
+    background-color: green;
+}
